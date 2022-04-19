@@ -1,0 +1,4 @@
+# Created at 2022-03-26T14:10:30.213
+Boot Manifest-JAR contains absolute paths in classpath 'D:\JAVA\cd0381-advanced-java-programming-techniques-projectstarter-master\starter\webcrawler\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
